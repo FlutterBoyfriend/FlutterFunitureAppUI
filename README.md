@@ -1,16 +1,32 @@
-# sdfgsfh
+Furniture app built with Flutter 
+Inspiration from Dribble
+I couldn't get the real assets but I replaced them with the available one's
+changes has been made....give a star ⭐ if you like what you see
 
-A new Flutter project.
 
-## Getting Started
+## 💻 Requirements
 
-This project is a starting point for a Flutter application.
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ✨ Features
+- [x] ......
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📸 ScreenShots
+
+<!-- <img src="ss/mockup.png"/> -->
+
+<img src="ss/ss1.png" width="400">
+<img src="ss/ss2.png" width="400">
+<img src="ss/ss3.png" width="400">
+ 
+
+## 😋 Dribble UI
+<img src="ss/realUI.jpeg" width="400">
+
+## 🤓 Author(s)
+
+**Flutter BoyFriend**
